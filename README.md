@@ -1,1 +1,1 @@
-https://github.com/Sumonmia/js-1
+https://sumonmia.github.io/js-1/
