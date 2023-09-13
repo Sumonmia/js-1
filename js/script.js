@@ -13,6 +13,23 @@ function happy(){
     document.getElementById('h3').innerHTML="Hope You are Doing Well";
 }
 
+function showDate(){
+    document.getElementById("d_h2").innerHTML=Date();
+}
+//date show
 function end(){
     document.getElementById('h4').innerHTML="TATA Bye Bye, See you soon";
+}
+//bulb on off
+function bulbOn(){
+    document.getElementById("img").src ="img/pic_bulbon.gif";
+}
+
+function bulbOff(){
+    document.getElementById("img").src ="img/pic_bulboff.gif";
+}
+//font style change
+
+function fontChange(){
+    document.getElementById("f_h2").style.fontSize ="80px";
 }
